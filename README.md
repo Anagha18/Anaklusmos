@@ -1,4 +1,4 @@
-# Anaklusmos
-Team members:
-Anagha M Anil Kumar: PES1201701102;
-Ria Kalia: PES1201700769;
+# Anaklusmos - Data Analysis on the Kepler Exoplanet Data
+
+## Details
+The missing data values were filled in and dataset cleaning was performed on the Kepler Expolanet Deep Space Dataset.
